@@ -15,7 +15,8 @@
     "url": "https://github.com/bitmakerlabs/how_to_test_robot/issues"
   },
   "homepage": "https://github.com/bitmakerlabs/how_to_test_robot#readme",
-  "devDependencies": {
-    "jest": "^23.6.0"
+  "devDependencies": {},
+  "dependencies": {
+    "jest": "^24.8.0"
   }
 }
